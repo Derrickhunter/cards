@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author derrickhunter
+ *
+ */
+package pkgEnum;
